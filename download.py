@@ -79,7 +79,7 @@ def main():
 while True:
     try:
         print('如果您想退出，请输入 退出 或者 q 或者 exit')
-        share_url = input('分享的链接：')
+        share_url == input('分享的链接：')
         if share_url = 'q' or 'Q' or '退出' or 'exit' or 'Exit' or 'quit' or 'Quit':
             break
         
